@@ -7,39 +7,39 @@
 ## Pages
 
 ### Home
-https://-9864db84.zappy5.app
+https://example.com
 
 ### תחומי עיסוק
-https://-9864db84.zappy5.app/practice
+https://example.com/practice
 
 ### אודות
-https://-9864db84.zappy5.app/about
+https://example.com/about
 
 ### תהליך
-https://-9864db84.zappy5.app/process
+https://example.com/process
 
 ### שאלות נפוצות
-https://-9864db84.zappy5.app/faq
+https://example.com/faq
 
 ### צור קשר
-https://-9864db84.zappy5.app/contact
+https://example.com/contact
 
 ### תודה רבה - פנייתך התקבלה | משרד עורכי דין אבי בן דוד
-https://-9864db84.zappy5.app/thank-you
+https://example.com/thank-you
 תודה על פנייתך למשרד עורכי דין אבי בן דוד. הודעתך בנושא דיני משפחה התקבלה בהצלחה וצוות המשרד יחזור אליך בהקדם האפשרי.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-9864db84.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-9864db84.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-9864db84.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -78,6 +78,6 @@ Professional Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-9864db84.zappy5.app/sitemap.xml
-- Robots: https://-9864db84.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-9864db84.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
