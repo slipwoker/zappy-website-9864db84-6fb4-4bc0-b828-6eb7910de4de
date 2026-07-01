@@ -696,6 +696,8 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 }
 /* Batch: Move floating WhatsApp button to bottom right across all pages */
 .scp9 { right: 24px !important; left: auto !important; bottom: 24px !important; top: auto !important; }
+/* Batch: Force WhatsApp floating button to right side with !important */
+.scp9 { left: auto !important; right: 24px !important; }
 
 /* zappy-nav-child-indent */
 .zappy-products-dropdown .zappy-nav-child > a,
